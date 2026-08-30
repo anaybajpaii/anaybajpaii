@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi, I'm Anay
 
-<!--
-**anaybajpaii/anaybajpaii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring mechanical engineering student (HS senior, IBDP) with a focus on mechatronics.
 
-Here are some ideas to get you started:
+**Currently Building:**
+- Projectile motion simulator — analytical vs. numerical (drag) comparison
+- Robot grid pathfinding simulator — next up
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Hardware Projects:**
+- DIY speaker, built from scratch
+
+**Languages & Tools:** C · C++ (in progress) · HTML/CSS
+
+**Completed Projects:**
+- Scientific calculator (C)
+
+**Contact:**
+- Email — anay.bajpai25@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/anay-bajpai-298639253/)
+- [YouTube](https://www.youtube.com/@anaybajpaii)
