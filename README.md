@@ -9,7 +9,7 @@ I'm an aspiring mechanical engineering student (HS senior, IBDP) with a focus on
 **Hardware Projects:**
 - DIY speaker, built from scratch
 
-**Languages & Tools:** C · C++ (in progress) · HTML/CSS
+**Languages & Tools:** C · C++ · HTML/CSS
 
 **Completed Projects:**
 - Scientific calculator (C)
