@@ -3,8 +3,7 @@
 I'm an aspiring mechanical engineering student (HS senior, IBDP) with a focus on mechatronics.
 
 **Currently Building:**
-- Projectile motion simulator — analytical vs. numerical (drag) comparison
-- Robot grid pathfinding simulator — next up
+- Robot grid pathfinding simulator
 
 **Hardware Projects:**
 - DIY speaker, built from scratch
@@ -12,6 +11,7 @@ I'm an aspiring mechanical engineering student (HS senior, IBDP) with a focus on
 **Languages & Tools:** C · C++ · HTML/CSS
 
 **Completed Projects:**
+- Projectile motion simulator — analytical vs. numerical (drag) comparison
 - Scientific calculator (C)
 
 **Contact:**
