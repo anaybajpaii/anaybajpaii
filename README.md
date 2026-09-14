@@ -3,8 +3,8 @@
 I'm an aspiring mechanical engineering student (HS senior, IBDP) with a focus on mechatronics.
 
 **Currently Building:**
-- Robot grid pathfinding simulator
-
+- Pendulum Stabilization Simulator
+  
 **Hardware Projects:**
 - DIY speaker, built from scratch
 
