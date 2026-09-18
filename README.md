@@ -12,7 +12,6 @@ I'm an aspiring mechanical engineering student (HS senior, IBDP) with a focus on
 
 **Completed Projects:**
 - Projectile motion simulator — analytical vs. numerical (drag) comparison
-- Scientific calculator (C)
 
 **Contact:**
 - Email — anay.bajpai25@gmail.com
