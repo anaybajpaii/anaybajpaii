@@ -6,7 +6,7 @@ I'm an aspiring mechanical engineering student (HS senior, IBDP) with a focus on
 - Drone attitude simulator
   
 **Hardware Projects:**
-- Loading...
+- Currently creating speaker and drone firmware
 
 **Languages & Tools:** C · C++ · HTML/CSS
 
