@@ -3,17 +3,18 @@
 I'm an aspiring mechanical engineering student (HS senior, IBDP) with a focus on mechatronics.
 
 **Currently Building:**
-- Pendulum Stabilization Simulator
+- Drone attitude simulator
   
 **Hardware Projects:**
-- DIY speaker, built from scratch
+- Loading...
 
 **Languages & Tools:** C · C++ · HTML/CSS
 
 **Completed Projects:**
 - Projectile motion simulator — analytical vs. numerical (drag) comparison
+- Pendulum stabilization simulator - uncontrolled gravity-driven fall against corrected motion under varying gain
 
-**Contact:**
+**Email & Socials:**
 - Email — anay.bajpai25@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/anay-bajpai-298639253/)
 - [YouTube](https://www.youtube.com/@anaybajpaii)
