@@ -3,7 +3,7 @@
 I'm an aspiring mechanical engineering student (HS senior, IBDP) with a focus on mechatronics.
 
 **Currently Building:**
-- Drone attitude simulator
+
   
 **Hardware Projects:**
 - Currently creating speaker and drone firmware
@@ -11,8 +11,9 @@ I'm an aspiring mechanical engineering student (HS senior, IBDP) with a focus on
 **Languages & Tools:** C · C++ · HTML/CSS
 
 **Completed Projects:**
-- Projectile motion simulator — analytical vs. numerical (drag) comparison
+- Drone attitude simulator - uncontrolled quadcopter tilt against PID-corrected stabilization under varying disturbances and gains
 - Pendulum stabilization simulator - uncontrolled gravity-driven fall against corrected motion under varying gain
+- Projectile motion simulator — analytical vs. numerical (drag) comparison
 
 **Email & Socials:**
 - Email — anay.bajpai25@gmail.com
