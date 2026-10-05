@@ -3,7 +3,7 @@
 I'm an aspiring mechanical engineering student (HS senior, IBDP) with a focus on mechatronics.
 
 **Currently Building:**
-
+- Drone firmware
   
 **Hardware Projects:**
 - Currently creating speaker and drone firmware
