@@ -3,7 +3,6 @@
 I'm an aspiring mechanical engineering student (HS senior, IBDP) with a focus on mechatronics.
 
 **Currently Building:**
-- Drone firmware
   
 **Languages & Tools:** C · C++ · HTML/CSS
 
