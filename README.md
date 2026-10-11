@@ -1,6 +1,6 @@
 ### Hi, I'm Anay
 
-I'm an aspiring mechanical engineering student (HS senior, IBDP) with a focus on mechatronics.
+I'm an aspiring mechanical engineering student (HS senior, IBDP) with a focus on GNC engineering.
 
 **Currently Building:**
   
