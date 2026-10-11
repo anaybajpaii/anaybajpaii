@@ -3,6 +3,7 @@
 I'm an aspiring mechanical engineering student (HS senior, IBDP) with a focus on GNC engineering.
 
 **Currently Building:**
+- Landing guidance somulator - 2D powered-descent guidance and control simulator
   
 **Languages & Tools:** C · C++ · HTML/CSS
 
