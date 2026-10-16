@@ -4,8 +4,9 @@ I'm an aspiring mechanical engineering student (HS senior, IBDP) with a focus on
 
 **Currently Building:**
 - Landing guidance somulator - 2D powered-descent guidance and control simulator
+- ManageBac Grade Calculator - a Chrome extension to instantly calculate and track grades directly inside ManageBac
   
-**Languages & Tools:** C · C++ · HTML/CSS
+**Languages & Tools:** C · C++ · HTML/CSS · Python · JavaScript
 
 **Completed Projects:**
 - Drone attitude simulator - uncontrolled quadcopter tilt against PID-corrected stabilization under varying disturbances and gains
