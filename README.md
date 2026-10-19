@@ -16,4 +16,5 @@ I'm an aspiring mechanical engineering student (HS senior, IBDP) with a focus on
 **Email & Socials:**
 - Email — anay.bajpai25@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/anay-bajpai-298639253/)
+- [Instagram](https://www.youtube.com/@anaybajpaii)
 - [YouTube](https://www.youtube.com/@anaybajpaii)
