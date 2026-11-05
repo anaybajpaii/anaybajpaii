@@ -4,7 +4,7 @@ I'm an aspiring mechanical engineering student (HS senior, IBDP) with a focus on
 
 **Currently Building:**
 - Landing guidance simulator - 2D powered-descent guidance and control simulator
-- BiteBell - School meal menu tracker and notification extension
+- BiteBell - A Chrome extension that acts as a school meal menu tracker and notification extension
   
 **Languages & Tools:** C · C++ · HTML/CSS · Python · JavaScript
 
