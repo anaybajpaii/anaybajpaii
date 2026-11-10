@@ -3,6 +3,7 @@
 I'm an aspiring mechanical engineering student (HS senior, IBDP) with a focus on control systems engineering.
 
 **Currently Building:**
+- Landing Simulator - A from-scratch C++17 quadcopter simulator in which a drone tracks a moving marker, matches its velocity and lands on it.
 - BiteBell - A Chrome extension that acts as a school meal menu tracker and notification extension
   
 **Completed Projects:**
