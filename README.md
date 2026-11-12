@@ -1,25 +1,28 @@
-### Hi, I'm Anay
+# Hi, I'm Anay
 
-I'm an aspiring mechanical engineering student (HS senior, IBDP) with a focus on control systems engineering.
-
-**Currently Building:**
-- Landing Simulator - A from-scratch C++17 quadcopter simulator in which a drone tracks a moving marker, matches its velocity and lands on it.
-- Arivu - A chess engine written in C++17, focusing on learning the game first (then giving it a player trait)
-  
-**Future Plans:**
-- Drone firmware for a from-scratch drone I will build (using the Landing Simulator as foundation)
-- BiteBell - A Chrome extension that acts as a school meal menu tracker and notification extension
+Aspiring high school mechanical engineer interested in **control systems and robotics**.
 
 
-**Completed Projects:**
-- Landing guidance simulator - 2D powered-descent guidance and control simulator
-- ManageBac Grade Calculator - a Chrome extension to instantly calculate and track grades directly inside ManageBac
-- Drone attitude simulator - uncontrolled quadcopter tilt against PID-corrected stabilization under varying disturbances and gains
-- Pendulum stabilization simulator - uncontrolled gravity-driven fall against corrected motion under varying gain
-- Projectile motion simulator - analytical vs. numerical (drag) comparison
 
-**Email & Socials:**
-- Email — anay.bajpai25@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/anay-bajpai-298639253/)
-- [Instagram](https://www.instagram.com/sznofanay/)
-- [YouTube](https://www.youtube.com/@anaybajpaii)
+### Currently Building
+- **Arivu** — An early-stage C++17 chess engine, focused on developing its understanding of chess before exploring distinct playing styles.
+- **Landing Simulator** — A from-scratch C++17 quadcopter simulator for autonomous moving-target interception and landing.
+
+### Previous Projects
+- **ManageBac Grade Calculator** — A Chrome extension for calculating, tracking, and projecting academic grades directly within ManageBac.
+- **Physics & Control Simulations** — A collection of C++ simulations exploring projectile dynamics, PID stabilization, drone attitude control, and powered-descent guidance.
+
+### Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### Exploring Next
+Drone firmware · BiteBell (Chrome extension for school meal tracking)
+
+### Connect
+[Email](mailto:anay.bajpai25@gmail.com) · [LinkedIn](https://www.linkedin.com/in/anay-bajpai-298639253/) · [Instagram](https://www.instagram.com/sznofanay/) · [YouTube](https://www.youtube.com/@anaybajpaii)
