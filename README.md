@@ -2,15 +2,14 @@
 
 Aspiring high school mechanical engineer interested in **control systems and robotics**.
 
-
-
 ### Currently Building
+- **Quadran** - A from-scratch quadcopter hardware and firmware project for autonomous flight, real-time control, and onboard systems integration.
 - **Arivu** — An early-stage C++17 chess engine, focused on developing its understanding of chess before exploring distinct playing styles.
-- **Landing Simulator** — A from-scratch C++17 quadcopter simulator for autonomous moving-target interception and landing.
-
+  
 ### Previous Projects
 - **ManageBac Grade Calculator** — A Chrome extension for calculating, tracking, and projecting academic grades directly within ManageBac.
 - **Physics & Control Simulations** — A collection of C++ simulations exploring projectile dynamics, PID stabilization, drone attitude control, and powered-descent guidance.
+- **Landing Simulator** — A from-scratch C++17 quadcopter simulator for autonomous moving-target interception and landing.
 
 ### Tech Stack
 <p align="left">
@@ -22,7 +21,7 @@ Aspiring high school mechanical engineer interested in **control systems and rob
 </p>
 
 ### Exploring Next
-Drone firmware · BiteBell (Chrome extension for school meal tracking)
+- BiteBell (Chrome extension for school meal tracking)
 
 ### Connect
 [Email](mailto:anay.bajpai25@gmail.com) · [LinkedIn](https://www.linkedin.com/in/anay-bajpai-298639253/) · [Instagram](https://www.instagram.com/sznofanay/) · [YouTube](https://www.youtube.com/@anaybajpaii)
